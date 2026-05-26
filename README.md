@@ -2,6 +2,10 @@
 
 A production-grade real-time fleet tracking system built with microservices architecture, simulating logistics operations at scale (Amazon, Zomato, Dunzo level).
 
+## 📸 Dashboard Screenshot
+![FleetPulse Dashboard](fleetpulse-dashboard.png)
+
+
 ## 🎯 What It Does
 
 FleetPulse is a control room dashboard where dispatchers can:
